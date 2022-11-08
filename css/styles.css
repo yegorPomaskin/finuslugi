@@ -108,7 +108,7 @@ body {
 }
 
 .menu {
-  margin-top: -12px;
+  margin-top: -50px;
 }
 
 .page__inner {
@@ -143,7 +143,7 @@ body {
   background-size: contain;
   width: 912px;
   height: 100%;
-  top: 125px;
+  top: 82px;
   right: 25%;
   z-index: 1;
 }
