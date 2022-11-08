@@ -10,7 +10,7 @@
   font-family: "FavoritPro-Medium";
   font-style: normal;
   font-weight: 500;
-  src: url("../fonts/FavoritPro-Medium.otf") format("opentype"), url("../fonts/FavoritPro-Medium.woff") format("woff");
+  src: url("fonts/FavoritPro-Medium.otf") format("opentype"), url("fonts/FavoritPro-Medium.woff") format("woff");
 }
 @font-face {
   font-family: "FavoritPro-Regular";
