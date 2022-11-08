@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "FavoritPro-Light";
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/FavoritPro-Light.woff2") format(".woff2"), url("../fonts/FavoritPro-Light.woff") format(".woff");
+}
+@font-face {
+  font-family: "FavoritPro-Regular";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/FavoritPro-Regular.woff2") format(".woff2");
+}
+@font-face {
+  font-family: "FavoritPro-Medium";
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/FavoritPro-Medium.woff2") format(".woff2");
+}
+@font-face {
+  font-family: "FavoritPro-Bold";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/FavoritPro-Bold.woff2") format(".woff2");
+}
+@font-face {
+  font-family: "FavoritPro-Book";
+  font-style: normal;
+  src: url("../fonts/FavoritPro-Book.woff2") format(".woff2");
+}/*# sourceMappingURL=fonts.css.map */
