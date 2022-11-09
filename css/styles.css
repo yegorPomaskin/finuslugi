@@ -289,7 +289,8 @@ body {
   align-items: center;
   flex-wrap: wrap;
   padding-bottom: 50px;
-  padding-top: 180px;
+  /* padding-top: 180px; OLD */
+  padding-top: 40px;
   position: relative;
   margin-bottom: 45px;
 }
@@ -508,7 +509,8 @@ body {
   justify-content: space-between;
   align-items: flex-start;
   padding-bottom: 50px;
-  padding-top: 180px;
+  /* padding-top: 180px;  OLD */
+  padding-top: 40px;
   position: relative;
   margin-bottom: 45px;
 }
@@ -644,7 +646,8 @@ body {
   justify-content: space-between;
   align-items: flex-start;
   padding-bottom: 154px;
-  padding-top: 180px;
+  /* padding-top: 180px; OLD */
+  padding-top: 40px;
   position: relative;
   margin-bottom: 45px;
 }
@@ -750,7 +753,8 @@ body {
   justify-content: space-between;
   align-items: flex-start;
   padding-bottom: 154px;
-  padding-top: 184px;
+  /* padding-top: 184px; OLD */
+  padding-top: 40px;
   position: relative;
   margin-bottom: 45px;
 }
