@@ -913,4 +913,10 @@ body {
 
 .footer__link + .footer__link {
   margin-left: 30px;
-}/*# sourceMappingURL=styles.css.map */
+}
+.emitents .page__inner{
+  padding-bottom: 150px;
+}
+
+
+/*# sourceMappingURL=styles.css.map */
