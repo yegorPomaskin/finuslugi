@@ -92,8 +92,8 @@ body {
   display: inline-block;
   width: 400px;
   height: 40px;
-  top: -38px;
-  right: 0;
+  top: -37px;
+  right: 0px;
   background-color: #20242d;
 }
 .title::before {
