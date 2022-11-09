@@ -4,32 +4,27 @@
   font-style: normal;
   font-weight: 700;
   /* Браузер сначала попробует найти шрифт локально */
-  src: url("../fonts/FavoritPro-Bold.otf") format("opentype"), url("../fonts/FavoritPro-Bold.woff") format("woff");
+  src: url("../fonts/FavoritPro-Boldfix.otf") format("opentype");
 }
 @font-face {
   font-family: "FavoritPro-Medium";
   font-style: normal;
   font-weight: 500;
-  src: url("../fonts/FavoritPro-Medium.otf") format("opentype"), url("../fonts/FavoritPro-Medium.woff") format("woff");
+  src: url("../fonts/FavoritPro-Medium.otf") format("opentype");
 }
 @font-face {
   font-family: "FavoritPro-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/FavoritPro-Regular.otf") format("opentype"), url("../fonts/FavoritPro-Regular.woff") format("woff");
+  src: url("../fonts/FavoritPro-Regularfix.otf") format("opentype");
 }
 @font-face {
   font-family: "FavoritPro-Light";
   font-style: normal;
   font-weight: 300;
-  src: url("../fonts/FavoritPro-Light.otf") format("opentype"), url("../fonts/FavoritPro-Light.woff") format("woff");
+  src: url("../fonts/FavoritPro-Lightfix.otf") format("opentype");
 }
-@font-face {
-  font-family: "FavoritPro-Book";
-  font-style: normal;
-  /* Браузер сначала попробует найти шрифт локально */
-  src: url("../fonts/FavoritPro-Book.otf") format("opentype"), url("../fonts/FavoritPro-Book.woff") format("woff");
-}
+
 html {
   box-sizing: border-box;
 }
@@ -159,20 +154,8 @@ body {
   height: 402px;
 }
 
-.logo-clients, .clients__qr{
+.clients__qr{
   position: relative;
-}
-
-.logo-clients::after{
-  content:"";
-  position: absolute;
-  background-image: url(../images/0+.svg);
-  background-repeat: no-repeat;
-  background-size: contain;
-  top: 5px;
-  right: 145px;
-  width: 88px;
-  height: 73px;
 }
 
 .clients__qr::after{
